@@ -7,6 +7,7 @@
 *.pyc
 *.swp
 .DS_Store
+**/.DS_Store
 .atom/
 .buildlog/
 .history
@@ -74,9 +75,6 @@ build/
 
 # Files for the ART/Dalvik VM
 *.dex
-
-# Java class files
-*.class
 
 # Generated files
 bin/
@@ -233,7 +231,6 @@ fabric.properties
 ### https://raw.github.com/github/gitignore//Global/macOS.gitignore
 
 # General
-.DS_Store
 .AppleDouble
 .LSOverride
 
@@ -337,9 +334,6 @@ DerivedData/
 
 # Files for the ART/Dalvik VM
 *.dex
-
-# Java class files
-*.class
 
 # Generated files
 bin/
@@ -498,9 +492,6 @@ gradle-app.setting
 
 ### https://raw.github.com/github/gitignore/340e2fe08a2356c2e3760ff58c3a9e1fddf08060/Java.gitignore
 
-# Compiled class file
-*.class
-
 # Log file
 *.log
 
@@ -604,9 +595,6 @@ fabric.properties
 
 ### https://raw.github.com/github/gitignore/340e2fe08a2356c2e3760ff58c3a9e1fddf08060/Kotlin.gitignore
 
-# Compiled class file
-*.class
-
 # Log file
 *.log
 
@@ -649,7 +637,6 @@ hs_err_pid*
 ### https://raw.github.com/github/gitignore/340e2fe08a2356c2e3760ff58c3a9e1fddf08060/Global/macOS.gitignore
 
 # General
-.DS_Store
 .AppleDouble
 .LSOverride
 
@@ -890,8 +877,6 @@ DerivedData/
 
 
 ### Kotlin ###
-# Compiled class file
-*.class
 
 # Log file
 *.log
